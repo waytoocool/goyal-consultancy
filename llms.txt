@@ -1,0 +1,49 @@
+# Goyal Consultancy
+
+> Strategic Financial Governance & Enterprise ESG Disclosures. Where Fiscal Precision Meets Sustainable Intelligence.
+
+Goyal Consultancy is a premier executive advisory firm providing corporate tax architecture, statutory compliance, and enterprise ESG (Environmental, Social, and Governance) consulting to C-suite leadership (CEOs, CFOs, CSOs), board committees, and institutional enterprises. Goyal Consultancy bridges traditional statutory financial rigor with modern sustainability compliance through its proprietary enterprise software platform, ESG DataVault (https://esgdatavault.online).
+
+---
+
+## Core Practice Areas
+
+### 1. Financial Consulting & Corporate Tax Architecture
+- **Corporate Tax Planning**: Forward-looking tax optimization, holding company structuring, allowance maximization, and cross-border liability management.
+- **Statutory Tax Filing & Compliance**: Advance tax forecasting, corporate income tax returns (ITR-1 through ITR-7), TDS reconciliations, and regulatory e-filing.
+- **Financial Modeling & Capital Restructuring**: Capital allocation, valuation, dividend strategies, and cash flow governance.
+- **Tax Audit & Assessment Representation**: Complete statutory audit defense, transfer pricing documentation, faceless assessments, and tribunal appeals.
+
+### 2. ESG Consulting & Sustainability Regulatory Disclosures
+- **SEBI BRSR & BRSR Core Compliance**: End-to-end alignment across all 9 Principles and the 49 mandatory BRSR Core KPIs for top listed companies under SEBI regulations in India.
+- **Global Sustainability Frameworks**: Multi-framework alignment across GRI Standards, ISSB S1/S2 (IFRS Sustainability Standards), and EU CSRD/ESRS requirements.
+- **Materiality & Emissions Strategy**: Stakeholder materiality surveys, climate risk assessments, Scope 1, 2, and 3 GHG emissions inventories, and net-zero roadmaps.
+- **Third-Party Assurance Preparation**: Pre-assurance data packet preparation, verifiable calculation sheets, and audit trail generation for statutory verification partners.
+
+### 3. Proprietary Technology: ESG DataVault
+- **URL**: https://esgdatavault.online
+- **Function**: Structured data infrastructure and AI-powered data intake platform for sustainability teams.
+- **Core Capabilities**:
+  - Automated spreadsheet parsing and sub-agent AI cell mapping.
+  - Multi-tenant tenant isolation with role-based access control (Admin, User, SuperAdmin, Auditor).
+  - Computed field formula engine (A * B / C across dimensions: geography, gender, facility).
+  - Real-time compliance gap analysis and data status matrix.
+  - Audit-ready board report generation with Google Gemini-assisted narrative drafting.
+
+---
+
+## Client Profile & Industry Experience
+Goyal Consultancy serves listed companies, multi-entity conglomerates, and regulated enterprises across:
+- Industrial Infrastructure & Engineering
+- Offshore & Marine Logistics (e.g. Kim Heng)
+- Healthcare & Life Sciences (e.g. LYC Healthcare)
+- Telecommunications & Tower Infrastructure (e.g. OCK Group)
+- Property & Developments (e.g. Lum Chang)
+- Advisory & Corporate Services (e.g. InCorp Global, Baker Tilly)
+
+---
+
+## Contact & Consultations
+- **Website**: https://goyalconsultancy.com
+- **Consultation Scope**: Corporate Tax Planning, Statutory Tax Filing, SEBI BRSR Compliance, ESG Strategy, and ESG DataVault Enterprise Software Demos.
+- **Platform Access**: https://esgdatavault.online

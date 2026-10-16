@@ -1,0 +1,33 @@
+# robots.txt for Goyal Consultancy
+# https://goyalconsultancy.com
+
+User-agent: *
+Allow: /
+
+# Dedicated Permissions for Leading AI Search Crawlers & Generative Engines
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemaps and AI Specification File
+Sitemap: https://goyalconsultancy.com/sitemap.xml
+# LLM Context File for Generative Search Engines
+# Specification: https://llmstxt.org/
+# Location: https://goyalconsultancy.com/llms.txt
